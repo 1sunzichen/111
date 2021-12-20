@@ -1,0 +1,4 @@
+mode: set
+goBasic1231/Basic/Test/main.go:8.16,11.2 2 0
+goBasic1231/Basic/Test/main.go:12.23,16.2 3 1
+goBasic1231/Basic/Test/main.go:17.14,19.2 0 0
